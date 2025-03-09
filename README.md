@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a few projects involving blockchain and android.
-
+Blockchain enthusiast and on a mission to disrupt middlemen.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-perello-mas/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@perello_ricardo) 
